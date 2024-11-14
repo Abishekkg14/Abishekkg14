@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abishekkg14
-- 👀 I’m interested in Programming and solving stuffs.
+- 👀 Just doing it for fun
 - 🌱 I’m currently learning Java programming ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... insta : @im_abishek_14
