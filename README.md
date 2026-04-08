@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Abishekkg14
 - 👀 Just doing it for fun
-- 🌱 I’m currently working on projects using web dev , Blockchain , ML , cryptography related ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently working on web dev , Blockchain , ML , cryptography related projects ...
 - 📫 How to reach me ... insta : @abishek14.jpeg
-- 😄 Pronouns: ... abi
+- 😄 Pronouns: ... Abi
+- 3rd year student in VIT Chennai
 - Give a star if possible and follow for more !!
 
 <!---
