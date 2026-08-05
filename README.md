@@ -3,7 +3,7 @@
 - 🌱 I’m currently working on web dev , Blockchain , ML , cryptography related projects ...
 - 📫 How to reach me ... insta : @abishek14.jpeg
 - 😄 Pronouns: ... Abi
-- 3rd year student in VIT Chennai
+- Final year student at VIT Chennai
 - Give a star if possible and follow for more !!
 
 <!---
