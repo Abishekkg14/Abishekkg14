@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Abishekkg14
+- 👋 Hi, I’m @gobistokes
 - 👀 Just doing it for fun
 - 🌱 I’m currently working on web dev , Blockchain , ML , cryptography related projects ...
-- 📫 How to reach me ... insta : @abishek14.jpeg
+- 📫 How to reach me ... insta : @gobistokes
 - 😄 Pronouns: ... Abi
 - Final year student at VIT Chennai
 - Give a star if possible and follow for more !!
